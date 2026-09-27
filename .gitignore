@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS metadata
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Large dataset files (exceeds GitHub 100MB limit)
+dataset/
+output/
+
+# Environment / IDE
+.env
+.venv
+venv/
+ENV/
+.vscode/
+.idea/
